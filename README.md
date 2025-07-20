@@ -6,7 +6,7 @@
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourGitHubUsername/Secure-Password-Generator-Python.git](https://github.com/YourGitHubUsername/Secure-Password-Generator-Python.git)
+    git clone https://github.com/mrakashmadhukar/Secure-Password-Generator-.git
     cd Secure-Password-Generator-Python
     ```
 2.  **Install Prerequisites (Optional, for clipboard functionality):**
