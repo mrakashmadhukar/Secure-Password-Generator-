@@ -1,6 +1,5 @@
 # Secure Password Generator (Python)
 
-[Choose one of the descriptions above and paste it here]
 
 ## How to Use
 
